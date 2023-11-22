@@ -1,4 +1,4 @@
-<h1 style="backgraund-color: red">Hi I'm Shaginur</h1>
+<h1>Hi I'm Shaginur</h1>
 [![codewars](https://www.codewars.com/users/Shaginur/badges/large)](https://www.codewars.com/users/Shaginur/badges/large)
 <!--
 **Shaginur/Shaginur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
